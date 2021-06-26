@@ -22,6 +22,8 @@
 #include <iostream>
 #include <sys/stat.h>
 
+#include <glm/glm.hpp>
+
 using namespace std;
 
 
